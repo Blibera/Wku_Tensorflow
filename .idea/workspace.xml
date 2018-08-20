@@ -52,22 +52,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="31" />
+          <entry key="py" value="213" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="31" />
+          <entry key="Python" value="213" />
         </counts>
       </usages-collector>
     </session>
@@ -119,11 +119,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-1_Tensor_Sigmod.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="57">
+              <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-1_Tensor_Multi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -151,6 +160,7 @@
         <option value="$PROJECT_DIR$/1-3_Tensor_Multi.py" />
         <option value="$PROJECT_DIR$/1-4_Tensor_Multi_matrix.py" />
         <option value="$PROJECT_DIR$/2-1_Tensor_Sigmod.py" />
+        <option value="$PROJECT_DIR$/2-1_Tensor_Multi.py" />
       </list>
     </option>
   </component>
@@ -206,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2-1_Tensor_Sigmod">
+  <component name="RunManager" selected="Python.2-1_Tensor_Multi">
     <configuration name="1-2_Tensor_Linear" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wku" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -270,6 +280,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2-1_Tensor_Multi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Slayer\PycharmProjects\Wku_Tensorflow\2-2_Tensor_Multi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="2-1_Tensor_Sigmod" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="wku" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -291,41 +322,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tensor_example" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="wku" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tensor_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.Tensor_example" />
       <item itemvalue="Python.1_Tensor_Linear" />
       <item itemvalue="Python.1-2_Tensor_Linear" />
       <item itemvalue="Python.1-4_Tensor_Multi_matrix" />
       <item itemvalue="Python.2-1_Tensor_Sigmod" />
+      <item itemvalue="Python.2-1_Tensor_Multi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2-1_Tensor_Multi" />
         <item itemvalue="Python.2-1_Tensor_Sigmod" />
         <item itemvalue="Python.1-4_Tensor_Multi_matrix" />
         <item itemvalue="Python.1-2_Tensor_Linear" />
         <item itemvalue="Python.1_Tensor_Linear" />
-        <item itemvalue="Python.Tensor_example" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +361,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24920969" />
@@ -449,8 +459,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2-1_Tensor_Sigmod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="57">
+          <caret line="3" column="51" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-1_Tensor_Multi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
